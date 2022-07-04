@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'avaliacaocunha'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8804C258DA424E3FBFDC1483B7CB2F6F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63E83FB3004C4AAABDBD4D1DA55DFE40 }}
           package: .
